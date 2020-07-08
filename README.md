@@ -2,4 +2,4 @@
  Ryerson University Data Analytics Final Project  
 
 Open Data_Analytics_Final_Project_for_Kyuhwan_Kim.ipynb
-To view the code for the project. 
+/nto view the code for the project. 
