@@ -10,14 +10,14 @@
  >Sun, J. (2016, August). Daily News for Stock Market Prediction, Version 1. Retrieved [Date You Retrieved This Data] from https://www.kaggle.com/aaron7sun/stocknews.
 <br />
 
-Description of Project:
+**Description of Project:**
 
 Using NLP (Natural Language Processing), a model is developed using news articles to predict the movement of the stock market. Also experimented with historical stock data to predict future movement(time series)
 
 Open [Data_Analytics_Final_Project_for_Kyuhwan_Kim.ipynb](https://github.com/QOneK/Ryerson-Data-Analytics-Final-Project-for-Kyuhwan-Kim/blob/master/Data_Analytics_Final_Project_for_Kyuhwan_Kim.ipynb)
 to view the code for the project. 
 
-You can also see the [report](https://github.com/QOneK/Ryerson-Data-Analytics-Final-Project-for-Kyuhwan-Kim/blob/master/Final%20Project%20for%20Kyuhwan%20Kim.docx?raw=true) and [presentation slides](https://github.com/QOneK/Ryerson-Data-Analytics-Final-Project-for-Kyuhwan-Kim/blob/master/Prediction%20of%20Stock%20Market%20Using%20NLP%20(Natural%20Language%20Processing).pptx?raw=true)
+You can also see the [report](https://github.com/QOneK/Ryerson-Data-Analytics-Final-Project-for-Kyuhwan-Kim/blob/master/Final%20Project%20for%20Kyuhwan%20Kim.docx?raw=true) and [presentation slides](https://github.com/QOneK/Ryerson-Data-Analytics-Final-Project-for-Kyuhwan-Kim/blob/master/Prediction%20of%20Stock%20Market%20Using%20NLP%20(Natural%20Language%20Processing).pptx?raw=true)<br /><br />
 
 Dataset contains these files:
  1. **RedditNews.csv:** 
